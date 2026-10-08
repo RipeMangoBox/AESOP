@@ -1,4 +1,4 @@
-# AESOP: Asymmetric Human–Camera Generation with Translation-Intensity Control
+# AESOP: Asymmetric Human–Camera Generation with Translation-Intensity Control (coming soon)
 
 **Jingzhong Lin<sup>1,*</sup>, Zhanke Wang<sup>2</sup>, Heng Li<sup>3</sup>, Wenxiang Liu<sup>1</sup>,**  
 **Zhao Zhang<sup>1</sup>, Kecheng Tang<sup>1</sup>, Dongdong Xiang<sup>1</sup>, Changbo Wang<sup>1</sup>,**  
@@ -11,7 +11,3 @@
 <sup>†</sup> Corresponding author.
 
 ![AESOP teaser: given-human camera generation, joint human–camera generation, and translation-intensity control.](assets/teaser.png)
-
-## Coming soon
-
-Code coming soon.
