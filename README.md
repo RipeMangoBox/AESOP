@@ -11,5 +11,6 @@
 <sup>†</sup> Corresponding author.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.37229-b31b1b.svg)](https://arxiv.org/abs/2609.37229)
+[![Project](https://img.shields.io/badge/Project-Page-389B9C)](https://ripemangobox.github.io/AESOP/)
 
 ![AESOP teaser: given-human camera generation, joint human–camera generation, and translation-intensity control.](assets/teaser.png)
